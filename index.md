@@ -240,7 +240,7 @@
         <option value="C2">C2 – Kualitas</option>
         <option value="C3">C3 – Fitur</option>
         <option value="C4">C4 – Daya Tahan</option>
-        <option value="C5">C5 – Pelayanan</option>
+        <option value="C5">C5 – Populer</option>
         <option value="ALL">Semua Kriteria (rata-rata)</option>
       </select>
     </div>
@@ -316,7 +316,7 @@
     C2:  { label: "C2 – Kualitas",    bobot: 0.20 },
     C3:  { label: "C3 – Fitur",       bobot: 0.15 },
     C4:  { label: "C4 – Daya Tahan",  bobot: 0.20 },
-    C5:  { label: "C5 – Pelayanan",   bobot: 0.20 },
+    C5:  { label: "C5 – Populer",   bobot: 0.20 },
     ALL: { label: "Semua Kriteria",   bobot: null  },
   };
 
